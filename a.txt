@@ -1,2 +1,5 @@
 20290925
-你好  你好
+int(){
+ 	test();
+}
+你好  你好nihao nihao nihao a.txt
